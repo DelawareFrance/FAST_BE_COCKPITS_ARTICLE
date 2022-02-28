@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+    <MASTERLANG>F</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;&amp;&amp;&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>La méthode &amp; n&apos;existe pas, veuillez la créer dans la classe &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Renseigner la table des GM ou la table des articles.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Aucun article trouvé.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Table des champs à selectionner non paramétrée pour l&apos;env. travail &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>&amp; n&apos;existe pas dans la table de contrôle &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Nom de la table de contrôle incorrect.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Pas de nom de champ pour le nom de domaine saisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Détermination de la table de contrôle impossible.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Impossible de trouver la table de contrôle avec la table &amp; et le champ &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Il n&apos;existe pas de méthode de contrôle pour le champ : &amp;-&amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>EAN &amp; déjà présent dans la réserve de travail.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Le type d&apos;EAN &amp; n&apos;est pas approprié pour le numéro d&apos;EAN &amp; .</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>EAN &amp; contient des espaces ou des lettres.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>EAN &amp; déjà présent en base pour article &amp; sur OC &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Il existe déjà un EAN principal pour le couple &amp;/&amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>&amp; n&apos;existe ni en base ni dans la réserve de travail.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Il ne peut y avoir qu&apos;un fournisseur habituel.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Fournisseur et division cédante sont incompatibles.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>&amp; n&apos;est pas présent en base (table LFA1).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Erreur lors de l&apos;exécution de l&apos;étape &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Erreur de lecture de la table des étapes de création (/DLWUPEX/TSTEPS).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Erreur de lecture du nom de classe dans la table /DLWUPEX/TCUSTO.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Erreur de lecture de la table &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Le champ &amp; est obligatoire mais n&apos;est pas renseigné.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Indiquez une date valide JJ.MM.AAAA (par ex. &amp;).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>&amp; dépasse la taille autorisée.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Impossible de mettre autre chose que du numérique dans &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Nombre de décimales dans &amp; est trop grand (attendu &amp;).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Utilisation du . (point) pour , (virgule) dans le champ &amp;-&amp; interdite.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Le champ &amp; &amp; est obligatoire, veuillez le remplir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>L&apos;article &amp; n&apos;existe pas dans la réserve de travail.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Erreur d&apos;écriture pour la table &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Erreur de suppression pour la table &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Type d&apos;article à numérotation externe; le N° d&apos;article doit être saisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>L&apos;EAN &amp; ne correspond pas au type d&apos;EAN saisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Erreur : consultez le protocole &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>L&apos;OA &amp; n&apos;est pas autorisée pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Le canal &amp; n&apos;est pas associé à la bonne OC selon la table de custo TBUOC.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Le type d&apos;EAN &amp; attend un EAN13 compris entre &amp; et &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Impossible de créer une nomenclature pour &amp; car il est de catégorie 00.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Erreur lors de la création de la nomenclature.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Erreur lors de la création du référencement.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>La caractéristique &amp; n&apos;est pas liée au groupe marchandise &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>&amp; n&apos;est pas identique à la valeur en table liée à la caractéristique &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Renseigner l&apos;article ou la liste des articles.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Cette ligne possède une clé identique avec une ou plusieurs ligne(s).</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>La division &amp; n&apos;est pas utilisable pour cette vue.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Pas d&apos;autorisation pour le GM &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Erreur sur la vue &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>L&apos;article &amp; n&apos;a pas encore été créé.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>&amp; déjà utilisé en clé pour &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Le composant &amp; n&apos;est pas de catégorie 00.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>Veuillez choisir une &amp; parmi la liste suivante : 00, 10 ou 12.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>Code article renseigné alors que &amp; &amp; est un type interne.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Le numéro d&apos;article &amp; n&apos;est pas compris dans la tranche &amp; - &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Le numéro d&apos;article est inférieur au Nº actuel de la tranche &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>L&apos;article &amp; existe déjà.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>Fournisseur &amp; non existant pour l&apos;OA &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>&apos;&amp;&apos; n&apos;existe pas dans la table de contrôle du champ &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>Ligne vide à remplir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>L&apos;EAN est obligatoire pour le type d&apos;EAN Externe.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>L&apos;EAN doit être vide pour le type d&apos;EAN Interne.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>EAN hors de la tranche autorisée.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>Référencement non terminé sur les articles structurés attachés.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>Contrôle en cours sur cette ligne.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>La gamme &amp; n&apos;est pas autorisée pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>Sous-gamme &amp; non existante pour le fournisseur &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>La valeur &amp; n&apos;est pas du bon type.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>L&apos;OA &amp; n&apos;existe pas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>L&apos;OC &amp; n&apos;est pas autorisée pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>L&apos;OC &amp; n&apos;existe pas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>Couple OC/CD &amp;/&amp; non autorisé pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>Le couple OC/CD &amp;/&amp; n&apos;existe pas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>La division &amp; n&apos;est pas autorisée pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>La division &amp; n&apos;existe pas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>Le CD &amp; n&apos;est pas autorisé pour l&apos;environnement de travail choisi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>Le CD &amp; n&apos;existe pas.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>078</MSGNR>
+     <TEXT>Champ envoyé pour contrôle EAN incorrect.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>079</MSGNR>
+     <TEXT>Le type d&apos;EAN doit être renseigné si l&apos;EAN est renseigné.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>Il manque des informations pour l&apos;enregistrement du prix.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>081</MSGNR>
+     <TEXT>La tranche de numéros n&apos;est pas définie pour le type article &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>082</MSGNR>
+     <TEXT>Le champ &amp; / table &amp; pour la vue &amp; est obligatoire, veuillez le gérer.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>083</MSGNR>
+     <TEXT>Le champ &amp; doit être positif</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>084</MSGNR>
+     <TEXT>L&apos;unité &amp; est différente de l&apos;unité de base &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>085</MSGNR>
+     <TEXT>Il manque le site &amp; dans la vue Logistique magasin</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>086</MSGNR>
+     <TEXT>Pas possible de sauvegarder le Nbre max d&apos;articles, WA n&apos;existe pas !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>087</MSGNR>
+     <TEXT>&amp; &amp; doit être supérieure à la date du jour</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>088</MSGNR>
+     <TEXT>&amp; &amp; doit être égale à la date du jour + 1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>089</MSGNR>
+     <TEXT>Modification de &amp; &amp; impossible sans modification de statut</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>090</MSGNR>
+     <TEXT>&amp; &amp; doit être vide si le statut est vide</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>091</MSGNR>
+     <TEXT>Un seul EAN principal possible par unité</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>092</MSGNR>
+     <TEXT>Fournisseur &amp; ne peut pas être habituel s&apos;il est désactivé</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>/DLWUPEX/COCKPIT_ART</ARBGB>
+     <MSGNR>093</MSGNR>
+     <TEXT>Un fournisseur habituel doit être défini pour l&apos;article &amp;.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

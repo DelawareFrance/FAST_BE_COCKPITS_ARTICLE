@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQID</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DREQID</DOMNAME>
+    <HEADLEN>40</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>N° de Réserve de Travail pour création article</DDTEXT>
+    <REPTEXT>N° de Réserve de Travail pour création article</REPTEXT>
+    <SCRTEXT_S>N° RT</SCRTEXT_S>
+    <SCRTEXT_M>N° RT pour créa.art.</SCRTEXT_M>
+    <SCRTEXT_L>N° de RT pour création article</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Worklist ID for material creation</DDTEXT>
+     <REPTEXT>Worklist ID for material creation</REPTEXT>
+     <SCRTEXT_S>Worklist</SCRTEXT_S>
+     <SCRTEXT_M>Worklist ID</SCRTEXT_M>
+     <SCRTEXT_L>Worklist ID for material creation</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>N° Elab Creazione Articolo</DDTEXT>
+     <REPTEXT>N° Elab Creazione Articolo</REPTEXT>
+     <SCRTEXT_S>N° Elab</SCRTEXT_S>
+     <SCRTEXT_M>N°Elab Creazione Art</SCRTEXT_M>
+     <SCRTEXT_L>N° Elab Creazione Articolo</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Change Request ID for mat creation</DDTEXT>
+     <REPTEXT>Change Request ID for mat creation</REPTEXT>
+     <SCRTEXT_S>Req ID</SCRTEXT_S>
+     <SCRTEXT_M>Change Request ID</SCRTEXT_M>
+     <SCRTEXT_L>Change Request ID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Nº Lista Trabajo para creación de artículos</DDTEXT>
+     <REPTEXT>Nº Lista Trabajo par creación de art.</REPTEXT>
+     <SCRTEXT_S>Nº LT</SCRTEXT_S>
+     <SCRTEXT_M>Nº Lista Trabajo</SCRTEXT_M>
+     <SCRTEXT_L>Nº Lista Trabajo</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

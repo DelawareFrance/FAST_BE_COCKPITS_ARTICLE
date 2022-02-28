@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EFLAGCREA</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>XFELD</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Flag Création</DDTEXT>
+    <REPTEXT>Flag Création</REPTEXT>
+    <SCRTEXT_S>Flag Créa.</SCRTEXT_S>
+    <SCRTEXT_M>Flag Création</SCRTEXT_M>
+    <SCRTEXT_L>Flag Création</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Creation flag</DDTEXT>
+     <REPTEXT>Creation flag</REPTEXT>
+     <SCRTEXT_S>Création ?</SCRTEXT_S>
+     <SCRTEXT_M>Creation flag</SCRTEXT_M>
+     <SCRTEXT_L>Creation flag</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Flag Creazione</DDTEXT>
+     <REPTEXT>Flag Creazione</REPTEXT>
+     <SCRTEXT_S>Flag Cre.</SCRTEXT_S>
+     <SCRTEXT_M>Flag Creazione</SCRTEXT_M>
+     <SCRTEXT_L>Flag Creazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Flag de creación</DDTEXT>
+     <REPTEXT>Flag de creación</REPTEXT>
+     <SCRTEXT_S>Flag Crea</SCRTEXT_S>
+     <SCRTEXT_M>Flag de creación</SCRTEXT_M>
+     <SCRTEXT_L>Flag de creación</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EBUSUNITID</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DBUSUNITID</DOMNAME>
+    <HEADLEN>16</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>16</SCRLEN3>
+    <DDTEXT>Code BU</DDTEXT>
+    <REPTEXT>Code BU</REPTEXT>
+    <SCRTEXT_S>Code BU</SCRTEXT_S>
+    <SCRTEXT_M>Code BU</SCRTEXT_M>
+    <SCRTEXT_L>Code BU</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Work area ID</DDTEXT>
+     <REPTEXT>Work area ID</REPTEXT>
+     <SCRTEXT_S>W.area ID</SCRTEXT_S>
+     <SCRTEXT_M>Work area ID</SCRTEXT_M>
+     <SCRTEXT_L>Work area ID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Codice BU</DDTEXT>
+     <REPTEXT>Codice BU</REPTEXT>
+     <SCRTEXT_S>Codice BU</SCRTEXT_S>
+     <SCRTEXT_M>Codice BU</SCRTEXT_M>
+     <SCRTEXT_L>Codice BU</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Business unit ID</DDTEXT>
+     <REPTEXT>Business unit ID</REPTEXT>
+     <SCRTEXT_S>B.Unit ID</SCRTEXT_S>
+     <SCRTEXT_M>Business unit ID</SCRTEXT_M>
+     <SCRTEXT_L>Business unit ID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Código BU</DDTEXT>
+     <REPTEXT>Código BU</REPTEXT>
+     <SCRTEXT_S>Código BU</SCRTEXT_S>
+     <SCRTEXT_M>Código BU</SCRTEXT_M>
+     <SCRTEXT_L>Código BU</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

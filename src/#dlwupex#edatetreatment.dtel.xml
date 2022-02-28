@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EDATETREATMENT</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>DATS</DOMNAME>
+    <HEADLEN>19</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Date de traitement</DDTEXT>
+    <REPTEXT>Date de traitement</REPTEXT>
+    <SCRTEXT_S>Date trait</SCRTEXT_S>
+    <SCRTEXT_M>Date de traitement</SCRTEXT_M>
+    <SCRTEXT_L>Date de traitement</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Processing date</DDTEXT>
+     <REPTEXT>Processing date</REPTEXT>
+     <SCRTEXT_S>Proc. date</SCRTEXT_S>
+     <SCRTEXT_M>Processing date</SCRTEXT_M>
+     <SCRTEXT_L>Processing date</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Data Elaborazione</DDTEXT>
+     <REPTEXT>Data Elaborazione</REPTEXT>
+     <SCRTEXT_S>Dt. Elab</SCRTEXT_S>
+     <SCRTEXT_M>Data Elaborazione</SCRTEXT_M>
+     <SCRTEXT_L>Data Elaborazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Date &amp; heure de traitement</DDTEXT>
+     <REPTEXT>Date de Traitement</REPTEXT>
+     <SCRTEXT_S>Date trait</SCRTEXT_S>
+     <SCRTEXT_M>Date de Traitement</SCRTEXT_M>
+     <SCRTEXT_L>Date de Traitement</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Fecha de procesamiento</DDTEXT>
+     <REPTEXT>Fecha de procesamiento</REPTEXT>
+     <SCRTEXT_S>Fecha proc</SCRTEXT_S>
+     <SCRTEXT_M>Fecha procesamiento</SCRTEXT_M>
+     <SCRTEXT_L>Fecha de procesamiento</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

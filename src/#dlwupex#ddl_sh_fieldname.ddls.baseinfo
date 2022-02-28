@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"/DLWUPEX/TLINK",
+"/DLWUPEX/TVIEW_K",
+"DD03L",
+"DD04T"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

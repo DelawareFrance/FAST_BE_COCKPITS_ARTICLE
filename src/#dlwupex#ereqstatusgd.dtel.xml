@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSGD</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>34</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>19</SCRLEN2>
+    <SCRLEN3>34</SCRLEN3>
+    <DDTEXT>D.Générales</DDTEXT>
+    <REPTEXT>D.Générales</REPTEXT>
+    <SCRTEXT_S>D.Génér.</SCRTEXT_S>
+    <SCRTEXT_M>D.Générales</SCRTEXT_M>
+    <SCRTEXT_L>D.Générales</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>General data</DDTEXT>
+     <REPTEXT>General data</REPTEXT>
+     <SCRTEXT_S>Gen. data</SCRTEXT_S>
+     <SCRTEXT_M>General data</SCRTEXT_M>
+     <SCRTEXT_L>General data</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Dati di Base</DDTEXT>
+     <REPTEXT>Dati di Base</REPTEXT>
+     <SCRTEXT_S>Dati Base</SCRTEXT_S>
+     <SCRTEXT_M>Dati di Base</SCRTEXT_M>
+     <SCRTEXT_L>Dati di Base</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>General data</DDTEXT>
+     <REPTEXT>General data</REPTEXT>
+     <SCRTEXT_S>Gdata</SCRTEXT_S>
+     <SCRTEXT_M>General data</SCRTEXT_M>
+     <SCRTEXT_L>General data</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Datos básicos</DDTEXT>
+     <REPTEXT>Datos básicos</REPTEXT>
+     <SCRTEXT_S>D.bás.</SCRTEXT_S>
+     <SCRTEXT_M>Datos básicos</SCRTEXT_M>
+     <SCRTEXT_L>Datos básicos</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

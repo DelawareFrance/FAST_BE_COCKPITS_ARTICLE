@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"/DLWUPEX/TBUHEAD",
+"/DLWUPEX/TVAR_H"
+],
+"ASSOCIATED":
+[
+"/DLWUPEX/TBUHEAD"
+],
+"BASE":
+[]
+}
+}

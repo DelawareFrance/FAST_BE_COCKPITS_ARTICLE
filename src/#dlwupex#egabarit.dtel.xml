@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EGABARIT</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DGABARIT</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Export du gabarit Oui/Non</DDTEXT>
+    <REPTEXT>Export du gabarit Oui/Non</REPTEXT>
+    <SCRTEXT_S>Gabarit ?</SCRTEXT_S>
+    <SCRTEXT_M>Export gabarit O/N</SCRTEXT_M>
+    <SCRTEXT_L>Export du gabarit Oui/Non</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Output in template Yes/No</DDTEXT>
+     <REPTEXT>Output in template Yes/No</REPTEXT>
+     <SCRTEXT_S>Template ?</SCRTEXT_S>
+     <SCRTEXT_M>Template Yes/No</SCRTEXT_M>
+     <SCRTEXT_L>Output in template Yes/No</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Export del modello Sì/No</DDTEXT>
+     <REPTEXT>Export del modello Sì/No</REPTEXT>
+     <SCRTEXT_S>Modello?</SCRTEXT_S>
+     <SCRTEXT_M>Modello?</SCRTEXT_M>
+     <SCRTEXT_L>Export del modello Sì/No</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Output in Gabarit Yes/No</DDTEXT>
+     <REPTEXT>Output in Gabarit Yes/No</REPTEXT>
+     <SCRTEXT_S>Gabarit ?</SCRTEXT_S>
+     <SCRTEXT_M>Gabarit Yes/No</SCRTEXT_M>
+     <SCRTEXT_L>Output in Gabarit Yes/No</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Exportat plantilla Si/No</DDTEXT>
+     <REPTEXT>Exportat plantilla Si/No</REPTEXT>
+     <SCRTEXT_S>Plantilla?</SCRTEXT_S>
+     <SCRTEXT_M>¿Plantilla?</SCRTEXT_M>
+     <SCRTEXT_L>Exportat plantilla Si/No</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

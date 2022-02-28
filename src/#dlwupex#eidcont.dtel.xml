@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EIDCONT</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DIDCONT</DOMNAME>
+    <HEADLEN>28</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>28</SCRLEN3>
+    <DDTEXT>N° de modification d&apos;article</DDTEXT>
+    <REPTEXT>N° de modification d&apos;article</REPTEXT>
+    <SCRTEXT_S>N.mod.art.</SCRTEXT_S>
+    <SCRTEXT_M>N° modif article</SCRTEXT_M>
+    <SCRTEXT_L>N° de modification d&apos;article</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Material Modification ID</DDTEXT>
+     <REPTEXT>Material Modification ID</REPTEXT>
+     <SCRTEXT_S>Mat Mod ID</SCRTEXT_S>
+     <SCRTEXT_M>Mat. Modification ID</SCRTEXT_M>
+     <SCRTEXT_L>Material Modification ID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>N° di variazione dell&apos;articolo</DDTEXT>
+     <REPTEXT>N° di variazione dell&apos;articolo</REPTEXT>
+     <SCRTEXT_S>N.Var.Art.</SCRTEXT_S>
+     <SCRTEXT_M>N.Var.Art.</SCRTEXT_M>
+     <SCRTEXT_L>N° di variazione dell&apos;articolo</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>ID For Material Modification</DDTEXT>
+     <REPTEXT>ID For Material Modification</REPTEXT>
+     <SCRTEXT_S>ID Mat Mod</SCRTEXT_S>
+     <SCRTEXT_M>ID For Material Mod.</SCRTEXT_M>
+     <SCRTEXT_L>ID For Material Modification</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Nº modificación del artículo</DDTEXT>
+     <REPTEXT>Nº modificación del artículo</REPTEXT>
+     <SCRTEXT_S>Nº mod.Art</SCRTEXT_S>
+     <SCRTEXT_M>Nº modif. artículo</SCRTEXT_M>
+     <SCRTEXT_L>Nº modificación del artículo</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

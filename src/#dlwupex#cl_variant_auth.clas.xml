@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>Authorisation class for gw variant</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>REMOVE_AUTH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>REMOVE_AUTH</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>REMOVE_AUTH</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>REMOVE_AUTH</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>REMOVE_AUTH</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>UPDATE_AUTH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>UPDATE_AUTH</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>UPDATE_AUTH</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>UPDATE_AUTH</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_VARIANT_AUTH</CLSNAME>
+     <CMPNAME>UPDATE_AUTH</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Change Autorisation data</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

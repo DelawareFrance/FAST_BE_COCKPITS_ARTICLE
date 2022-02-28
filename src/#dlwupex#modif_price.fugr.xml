@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Modif price</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>/DLWUPEX/LMODIF_PRICETOP</SOBJ_NAME>
+    <SOBJ_NAME>/DLWUPEX/SAPLMODIF_PRICE</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>/DLWUPEX/COCKPIT_CHANGE_PRICE</FUNCNAME>
+     <SHORT_TEXT>Change Price condition</SHORT_TEXT>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>IS_COND</PARAMETER>
+       <REFERENCE>X</REFERENCE>
+       <TYP>/DLWUPEX/PRICE_COND</TYP>
+      </RSIMP>
+     </IMPORT>
+     <EXPORT>
+      <RSEXP>
+       <PARAMETER>ET_MESSAGE</PARAMETER>
+       <REFERENCE>X</REFERENCE>
+       <TYP>BAPIRET2_T</TYP>
+      </RSEXP>
+     </EXPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>IS_COND</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Segment de filtre avec clé de condition séparée</STEXT>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>ET_MESSAGE</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Table retour</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

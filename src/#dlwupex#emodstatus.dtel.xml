@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EMODSTATUS</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DMODSTATUS</DOMNAME>
+    <HEADLEN>19</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>19</SCRLEN3>
+    <DDTEXT>Statut de modification article</DDTEXT>
+    <REPTEXT>Statut de modification article</REPTEXT>
+    <SCRTEXT_S>Stat.Modif</SCRTEXT_S>
+    <SCRTEXT_M>Statut modif.article</SCRTEXT_M>
+    <SCRTEXT_L>Statut de modification article</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Material modification status</DDTEXT>
+     <REPTEXT>Material modification status</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>Mat. modif status</SCRTEXT_M>
+     <SCRTEXT_L>Material modification status</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Stato Variazione Articolo</DDTEXT>
+     <REPTEXT>Stato Variazione Articolo</REPTEXT>
+     <SCRTEXT_S>St.Var.Art</SCRTEXT_S>
+     <SCRTEXT_M>Stato Variazione Art</SCRTEXT_M>
+     <SCRTEXT_L>Stato Variazione Articolo</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Statut de modification Article</DDTEXT>
+     <REPTEXT>Statut Modification</REPTEXT>
+     <SCRTEXT_S>Statut</SCRTEXT_S>
+     <SCRTEXT_M>Statut Modif</SCRTEXT_M>
+     <SCRTEXT_L>Statut Modification</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Estado de modificación de artículo</DDTEXT>
+     <REPTEXT>Estado de modificación de artículo</REPTEXT>
+     <SCRTEXT_S>Est.Modif.</SCRTEXT_S>
+     <SCRTEXT_M>Estado mod. artículo</SCRTEXT_M>
+     <SCRTEXT_L>Estado de modificación de artículo</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

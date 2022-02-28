@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>/DLWUPEX/VG_IMP_EXP</TCODE>
+    <PGMNA>/DLWUPEX/VG_IMPORT_EXPORT</PGMNA>
+    <DYPNO>1000</DYPNO>
+    <CINFO>gA==</CINFO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>/DLWUPEX/VG_IMP_EXP</TCODE>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>F</SPRSL>
+    <TCODE>/DLWUPEX/VG_IMP_EXP</TCODE>
+    <TTEXT>Import/Export de Variante de Gestion</TTEXT>
+   </TSTCT>
+   <I18N_TPOOL>
+    <TSTCT>
+     <SPRSL>E</SPRSL>
+     <TTEXT>Import/Export de Variante de Gestion</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>I</SPRSL>
+     <TTEXT>Import/Export de Variante de Gestion</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>S</SPRSL>
+     <TTEXT>Import/Export de Variante de Gestion</TTEXT>
+    </TSTCT>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EDISPLAYFLAG</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>FLAG</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Affichage uniquement ?</DDTEXT>
+    <REPTEXT>Affichage uniquement ?</REPTEXT>
+    <SCRTEXT_S>Affichage?</SCRTEXT_S>
+    <SCRTEXT_M>Affichage uniquement</SCRTEXT_M>
+    <SCRTEXT_L>Affichage uniquement ?</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Display only ?</DDTEXT>
+     <REPTEXT>Display only ?</REPTEXT>
+     <SCRTEXT_S>Display ?</SCRTEXT_S>
+     <SCRTEXT_M>Display only ?</SCRTEXT_M>
+     <SCRTEXT_L>Display only ?</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Solo Visualizzazione?</DDTEXT>
+     <REPTEXT>Solo Visualizzazione?</REPTEXT>
+     <SCRTEXT_S>Mostrare?</SCRTEXT_S>
+     <SCRTEXT_M>Solo Visualizzazione</SCRTEXT_M>
+     <SCRTEXT_L>Solo Visualizzazione?</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Display only ?</DDTEXT>
+     <REPTEXT>Display only ?</REPTEXT>
+     <SCRTEXT_S>Display ?</SCRTEXT_S>
+     <SCRTEXT_M>Display only ?</SCRTEXT_M>
+     <SCRTEXT_L>Display only ?</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>¿Solo visualización?</DDTEXT>
+     <REPTEXT>¿Solo visualización?</REPTEXT>
+     <SCRTEXT_S>¿Ver?</SCRTEXT_S>
+     <SCRTEXT_M>¿Solo visualización?</SCRTEXT_M>
+     <SCRTEXT_L>¿Solo visualización?</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

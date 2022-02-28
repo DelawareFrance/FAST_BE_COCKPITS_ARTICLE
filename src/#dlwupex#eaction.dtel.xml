@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EACTION</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DACTION</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Action de modification article</DDTEXT>
+    <REPTEXT>Action de modification article</REPTEXT>
+    <SCRTEXT_S>Action Mod</SCRTEXT_S>
+    <SCRTEXT_M>Action modif article</SCRTEXT_M>
+    <SCRTEXT_L>Action de modification article</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Material modification action</DDTEXT>
+     <REPTEXT>Material modification action</REPTEXT>
+     <SCRTEXT_S>Modif.act.</SCRTEXT_S>
+     <SCRTEXT_M>Mat. modif. action</SCRTEXT_M>
+     <SCRTEXT_L>Material modification action</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Azione di variazione articolo</DDTEXT>
+     <REPTEXT>Azione di variazione articolo</REPTEXT>
+     <SCRTEXT_S>Azione Var</SCRTEXT_S>
+     <SCRTEXT_M>Azione Var</SCRTEXT_M>
+     <SCRTEXT_L>Azione di variazione articolo</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Acción de modificación de artículo</DDTEXT>
+     <REPTEXT>Acción de modificación de artículo</REPTEXT>
+     <SCRTEXT_S>Acción Mod</SCRTEXT_S>
+     <SCRTEXT_M>Acción Modificación</SCRTEXT_M>
+     <SCRTEXT_L>Acción de modificación de artículo</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

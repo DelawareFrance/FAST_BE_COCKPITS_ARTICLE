@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EBU_DESCR</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DBU_DESCR</DOMNAME>
+    <HEADLEN>40</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Description BU</DDTEXT>
+    <REPTEXT>Description BU</REPTEXT>
+    <SCRTEXT_S>Descrip.BU</SCRTEXT_S>
+    <SCRTEXT_M>Description BU</SCRTEXT_M>
+    <SCRTEXT_L>Description BU</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Business Unit description</DDTEXT>
+     <REPTEXT>Business Unit description</REPTEXT>
+     <SCRTEXT_S>BU descr.</SCRTEXT_S>
+     <SCRTEXT_M>BU description</SCRTEXT_M>
+     <SCRTEXT_L>Business Unit description</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Descrizione BU</DDTEXT>
+     <REPTEXT>Descrizione BU</REPTEXT>
+     <SCRTEXT_S>Desc. BU</SCRTEXT_S>
+     <SCRTEXT_M>Descrizione BU</SCRTEXT_M>
+     <SCRTEXT_L>Descrizione BU</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Business Unit description</DDTEXT>
+     <REPTEXT>Business Unit description</REPTEXT>
+     <SCRTEXT_S>BUnit desc</SCRTEXT_S>
+     <SCRTEXT_M>Business Unit descri</SCRTEXT_M>
+     <SCRTEXT_L>Business Unit description</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Descripción BU</DDTEXT>
+     <REPTEXT>Descripción BU</REPTEXT>
+     <SCRTEXT_S>Descr. BU</SCRTEXT_S>
+     <SCRTEXT_M>Descripción BU</SCRTEXT_M>
+     <SCRTEXT_L>Descripción BU</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

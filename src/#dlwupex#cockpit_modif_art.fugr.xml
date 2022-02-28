@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Cockpit Modif Article</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>/DLWUPEX/LCOCKPIT_MODIF_ARTTOP</SOBJ_NAME>
+    <SOBJ_NAME>/DLWUPEX/SAPLCOCKPIT_MODIF_ART</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>/DLWUPEX/COCKPIT_RFC_MODIF_ART</FUNCNAME>
+     <REMOTE_CALL>R</REMOTE_CALL>
+     <SHORT_TEXT>Module fonction pour gestion des modifs article en masse par queue</SHORT_TEXT>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>IV_ID</PARAMETER>
+       <TYP>/DLWUPEX/EIDCONT</TYP>
+      </RSIMP>
+      <RSIMP>
+       <PARAMETER>IV_VARIANT</PARAMETER>
+       <TYP>/DLWUPEX/EVARIANT</TYP>
+      </RSIMP>
+      <RSIMP>
+       <PARAMETER>IV_DATA</PARAMETER>
+       <TYP>STRING</TYP>
+      </RSIMP>
+      <RSIMP>
+       <PARAMETER>IV_WA</PARAMETER>
+       <TYP>/DLWUPEX/EBUSUNITID</TYP>
+      </RSIMP>
+      <RSIMP>
+       <PARAMETER>IV_NEWID</PARAMETER>
+       <TYP>XFELD</TYP>
+      </RSIMP>
+      <RSIMP>
+       <PARAMETER>IV_QNAME</PARAMETER>
+       <TYP>TRFCQNAM</TYP>
+      </RSIMP>
+     </IMPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>IV_ID</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>ID For Material Modification</STEXT>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IV_VARIANT</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Variante de gestion</STEXT>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IV_DATA</PARAMETER>
+       <KIND>P</KIND>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IV_WA</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Business unit ID</STEXT>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IV_NEWID</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Case à cocher</STEXT>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>IV_QNAME</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Nom d&apos;une file d&apos;attente tRFC</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

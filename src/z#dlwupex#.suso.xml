@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>Z/DLWUPEX/</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <FIEL2>ZVIEW_ID</FIEL2>
+    <FIEL3>ZBUID</FIEL3>
+    <FIEL4>ZSUPP_ALL</FIEL4>
+    <OCLSS>ZART</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>F</LANGU>
+    <OBJECT>Z/DLWUPEX/</OBJECT>
+    <TTEXT>objet d&apos;autorisation du cockpit Article</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>Z/DLWUPEX/</OBJCT>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>Z/DLWUPEX/</BROBJ>
+     <ACTVT>01</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>Z/DLWUPEX/</BROBJ>
+     <ACTVT>02</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>Z/DLWUPEX/</BROBJ>
+     <ACTVT>03</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

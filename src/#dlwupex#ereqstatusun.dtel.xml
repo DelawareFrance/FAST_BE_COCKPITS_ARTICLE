@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSUN</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>30</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>30</SCRLEN3>
+    <DDTEXT>EAN/Unité</DDTEXT>
+    <REPTEXT>EAN/Unité</REPTEXT>
+    <SCRTEXT_S>EAN/Unité</SCRTEXT_S>
+    <SCRTEXT_M>EAN/Unité</SCRTEXT_M>
+    <SCRTEXT_L>EAN/Unité</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>EAN Unit status for request</DDTEXT>
+     <REPTEXT>EAN Unit</REPTEXT>
+     <SCRTEXT_S>Unit</SCRTEXT_S>
+     <SCRTEXT_M>EAN Unit</SCRTEXT_M>
+     <SCRTEXT_L>EAN Unit</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Dati di Base - UA e EAN</DDTEXT>
+     <REPTEXT>Dati di Base - UA e EAN</REPTEXT>
+     <SCRTEXT_S>UA e EAN</SCRTEXT_S>
+     <SCRTEXT_M>UA e EAN</SCRTEXT_M>
+     <SCRTEXT_L>Dati di Base - UA e EAN</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>EAN Unit Status for Request ID</DDTEXT>
+     <REPTEXT>EAN Unit Status for Request ID</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>EAN Unit Status</SCRTEXT_M>
+     <SCRTEXT_L>EAN Unit Status for Request ID</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>EAN/Unidad</DDTEXT>
+     <REPTEXT>EAN/Unidad</REPTEXT>
+     <SCRTEXT_S>EAN/UN</SCRTEXT_S>
+     <SCRTEXT_M>EAN/Unidad</SCRTEXT_M>
+     <SCRTEXT_L>EAN/Unidad</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

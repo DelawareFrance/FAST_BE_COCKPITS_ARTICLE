@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EFILEDSORDER</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Afficher la position dans la liste</DDTEXT>
+    <REPTEXT>Afficher la position dans la liste</REPTEXT>
+    <SCRTEXT_S>Position</SCRTEXT_S>
+    <SCRTEXT_M>Aff. pos. ds liste</SCRTEXT_M>
+    <SCRTEXT_L>Afficher la position dans la liste</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000005</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Display position in the list</DDTEXT>
+     <REPTEXT>Display position in the list</REPTEXT>
+     <SCRTEXT_S>Position</SCRTEXT_S>
+     <SCRTEXT_M>Position in list</SCRTEXT_M>
+     <SCRTEXT_L>Display position in the list</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Mostrare la posizione nella lista</DDTEXT>
+     <REPTEXT>Mostrare la posizione nella lista</REPTEXT>
+     <SCRTEXT_S>Pos.</SCRTEXT_S>
+     <SCRTEXT_M>Pos.</SCRTEXT_M>
+     <SCRTEXT_L>Mostrare la posizione nella lista</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Display position in the list</DDTEXT>
+     <REPTEXT>Display position i in the list</REPTEXT>
+     <SCRTEXT_S>Position ¨</SCRTEXT_S>
+     <SCRTEXT_M>Display position i</SCRTEXT_M>
+     <SCRTEXT_L>Display position i in the list</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Mostrar posición en la lista</DDTEXT>
+     <REPTEXT>Mostrar posición en la lista</REPTEXT>
+     <SCRTEXT_S>Pos.</SCRTEXT_S>
+     <SCRTEXT_M>Posición en la lista</SCRTEXT_M>
+     <SCRTEXT_L>Mostrar posición en la lista</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

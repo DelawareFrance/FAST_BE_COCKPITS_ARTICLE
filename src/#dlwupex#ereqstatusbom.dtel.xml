@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSBOM</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Nomenclature</DDTEXT>
+    <REPTEXT>Nomenclature</REPTEXT>
+    <SCRTEXT_S>Nomencl.</SCRTEXT_S>
+    <SCRTEXT_M>Nomenclature</SCRTEXT_M>
+    <SCRTEXT_L>Nomenclature</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>BOM status for request</DDTEXT>
+     <REPTEXT>BOM</REPTEXT>
+     <SCRTEXT_S>BOM</SCRTEXT_S>
+     <SCRTEXT_M>BOM</SCRTEXT_M>
+     <SCRTEXT_L>BOM</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Legame</DDTEXT>
+     <REPTEXT>Legame</REPTEXT>
+     <SCRTEXT_S>Legame</SCRTEXT_S>
+     <SCRTEXT_M>Legame</SCRTEXT_M>
+     <SCRTEXT_L>Legame</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>BOM status for request</DDTEXT>
+     <REPTEXT>BOM status for request</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>BOM status for reque</SCRTEXT_M>
+     <SCRTEXT_L>BOM status for request</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Nomenclatura</DDTEXT>
+     <REPTEXT>BOM</REPTEXT>
+     <SCRTEXT_S>BOM</SCRTEXT_S>
+     <SCRTEXT_M>BOM</SCRTEXT_M>
+     <SCRTEXT_L>BOM</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

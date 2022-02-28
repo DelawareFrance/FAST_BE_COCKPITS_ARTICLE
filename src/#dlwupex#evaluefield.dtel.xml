@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EVALUEFIELD</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DALUEFIELD</DOMNAME>
+    <HEADLEN>31</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>31</SCRLEN3>
+    <DDTEXT>Valeur du champ venant de FIORI</DDTEXT>
+    <REPTEXT>Valeur du champ venant de FIORI</REPTEXT>
+    <SCRTEXT_S>Valeur</SCRTEXT_S>
+    <SCRTEXT_M>Valeur du champ</SCRTEXT_M>
+    <SCRTEXT_L>Valeur du champ venant de FIORI</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Value of the FIORI field</DDTEXT>
+     <REPTEXT>Value of the FIORI field</REPTEXT>
+     <SCRTEXT_S>Field val.</SCRTEXT_S>
+     <SCRTEXT_M>Value FIORI field</SCRTEXT_M>
+     <SCRTEXT_L>Value of the FIORI field</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Valore del campo proveniente da FIORI</DDTEXT>
+     <REPTEXT>Valore del campo proveniente da FIORI</REPTEXT>
+     <SCRTEXT_S>Valore</SCRTEXT_S>
+     <SCRTEXT_M>Valore campo FIORI</SCRTEXT_M>
+     <SCRTEXT_L>Valore del campo proveniente da FIORI</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Valeur du champ venant de FIORI</DDTEXT>
+     <REPTEXT>Valeur du champ venant de FIORI</REPTEXT>
+     <SCRTEXT_S>Value</SCRTEXT_S>
+     <SCRTEXT_M>Valeur du champ</SCRTEXT_M>
+     <SCRTEXT_L>Valeur du champ venant de FIORI</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Valor del campo FIORI</DDTEXT>
+     <REPTEXT>Valor del campo FIORI</REPTEXT>
+     <SCRTEXT_S>Valor</SCRTEXT_S>
+     <SCRTEXT_M>Valor del campo</SCRTEXT_M>
+     <SCRTEXT_L>Valor del campo FIORI</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

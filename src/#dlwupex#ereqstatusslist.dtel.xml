@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSSLIST</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>RSA</DDTEXT>
+    <REPTEXT>RSA</REPTEXT>
+    <SCRTEXT_S>RSA</SCRTEXT_S>
+    <SCRTEXT_M>RSA</SCRTEXT_M>
+    <SCRTEXT_L>RSA</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Source List status for Request</DDTEXT>
+     <REPTEXT>Source List</REPTEXT>
+     <SCRTEXT_S>SourceList</SCRTEXT_S>
+     <SCRTEXT_M>Source List</SCRTEXT_M>
+     <SCRTEXT_L>Source List</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Sorgente di approvvigionamento</DDTEXT>
+     <REPTEXT>Sorgente di approvvigionamento</REPTEXT>
+     <SCRTEXT_S>Sorg.Appro</SCRTEXT_S>
+     <SCRTEXT_M>Sorg.Appro</SCRTEXT_M>
+     <SCRTEXT_L>Sorgente di approvvigionamento</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Source List status for Request</DDTEXT>
+     <REPTEXT>Source List status for Request</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>Source List status</SCRTEXT_M>
+     <SCRTEXT_L>Source List status for Request</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Surtido</DDTEXT>
+     <REPTEXT>Surtido</REPTEXT>
+     <SCRTEXT_S>Surtido</SCRTEXT_S>
+     <SCRTEXT_M>Surtido</SCRTEXT_M>
+     <SCRTEXT_L>Surtido</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

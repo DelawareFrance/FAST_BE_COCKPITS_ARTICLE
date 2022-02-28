@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSLIS</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Référencem.</DDTEXT>
+    <REPTEXT>Référencem.</REPTEXT>
+    <SCRTEXT_S>Référencem</SCRTEXT_S>
+    <SCRTEXT_M>Référencem.</SCRTEXT_M>
+    <SCRTEXT_L>Référencem.</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Listing status for request</DDTEXT>
+     <REPTEXT>Listing</REPTEXT>
+     <SCRTEXT_S>Listing</SCRTEXT_S>
+     <SCRTEXT_M>Listing</SCRTEXT_M>
+     <SCRTEXT_L>Listing</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Assortimento</DDTEXT>
+     <REPTEXT>Assortimento</REPTEXT>
+     <SCRTEXT_S>Assortim.</SCRTEXT_S>
+     <SCRTEXT_M>Assortimento</SCRTEXT_M>
+     <SCRTEXT_L>Assortimento</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Listing status for request</DDTEXT>
+     <REPTEXT>Listing status for request</REPTEXT>
+     <SCRTEXT_S>Satatus</SCRTEXT_S>
+     <SCRTEXT_M>Listing status for r</SCRTEXT_M>
+     <SCRTEXT_L>Listing status for request</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Catalogación</DDTEXT>
+     <REPTEXT>Catalogación</REPTEXT>
+     <SCRTEXT_S>Catalogac.</SCRTEXT_S>
+     <SCRTEXT_M>Catalogación</SCRTEXT_M>
+     <SCRTEXT_L>Catalogación</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

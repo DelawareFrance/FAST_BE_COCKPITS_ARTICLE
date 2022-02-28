@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/ELINESTATUS</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Statut de la ligne</DDTEXT>
+    <REPTEXT>Statut de la ligne</REPTEXT>
+    <SCRTEXT_S>Stat.ligne</SCRTEXT_S>
+    <SCRTEXT_M>Statut de la ligne</SCRTEXT_M>
+    <SCRTEXT_L>Statut de la ligne</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Line status</DDTEXT>
+     <REPTEXT>Line status</REPTEXT>
+     <SCRTEXT_S>Line stat.</SCRTEXT_S>
+     <SCRTEXT_M>Line status</SCRTEXT_M>
+     <SCRTEXT_L>Line status</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Stato Linea</DDTEXT>
+     <REPTEXT>Stato Linea</REPTEXT>
+     <SCRTEXT_S>St. Linea</SCRTEXT_S>
+     <SCRTEXT_M>Stato Linea</SCRTEXT_M>
+     <SCRTEXT_L>Stato Linea</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Line status</DDTEXT>
+     <REPTEXT>Status</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>Status</SCRTEXT_M>
+     <SCRTEXT_L>Status</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Estado de linea</DDTEXT>
+     <REPTEXT>Estado de linea</REPTEXT>
+     <SCRTEXT_S>Est. Linea</SCRTEXT_S>
+     <SCRTEXT_M>Estado de linea</SCRTEXT_M>
+     <SCRTEXT_L>Estado de linea</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

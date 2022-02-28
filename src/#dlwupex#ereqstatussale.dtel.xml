@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSSALE</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Ventes/PV</DDTEXT>
+    <REPTEXT>Ventes/PV</REPTEXT>
+    <SCRTEXT_S>Ventes/PV</SCRTEXT_S>
+    <SCRTEXT_M>Ventes/PV</SCRTEXT_M>
+    <SCRTEXT_L>Ventes/PV</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Sales SP status for request</DDTEXT>
+     <REPTEXT>Sales</REPTEXT>
+     <SCRTEXT_S>Sales</SCRTEXT_S>
+     <SCRTEXT_M>Sales</SCRTEXT_M>
+     <SCRTEXT_L>Sales</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Vendita</DDTEXT>
+     <REPTEXT>Vendita</REPTEXT>
+     <SCRTEXT_S>Vendita</SCRTEXT_S>
+     <SCRTEXT_M>Vendita</SCRTEXT_M>
+     <SCRTEXT_L>Vendita</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Sale PV status for Request</DDTEXT>
+     <REPTEXT>Sale PV status for Request</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>Sale PV status</SCRTEXT_M>
+     <SCRTEXT_L>Sale PV status for Request</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Venta</DDTEXT>
+     <REPTEXT>Venta</REPTEXT>
+     <SCRTEXT_S>Venta</SCRTEXT_S>
+     <SCRTEXT_M>Venta</SCRTEXT_M>
+     <SCRTEXT_L>Venta</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

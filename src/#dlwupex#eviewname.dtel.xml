@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EVIEWNAME</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DVIEWNAME</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Nom de la vue</DDTEXT>
+    <REPTEXT>Nom de la vue</REPTEXT>
+    <SCRTEXT_S>Nom de vue</SCRTEXT_S>
+    <SCRTEXT_M>Nom de la vue</SCRTEXT_M>
+    <SCRTEXT_L>Nom de la vue</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>View Name</DDTEXT>
+     <REPTEXT>View Name</REPTEXT>
+     <SCRTEXT_S>View Name</SCRTEXT_S>
+     <SCRTEXT_M>View Name</SCRTEXT_M>
+     <SCRTEXT_L>View Name</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Nome Vista</DDTEXT>
+     <REPTEXT>Nome Vista</REPTEXT>
+     <SCRTEXT_S>Nome Vista</SCRTEXT_S>
+     <SCRTEXT_M>Nome Vista</SCRTEXT_M>
+     <SCRTEXT_L>Nome Vista</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>View Name</DDTEXT>
+     <REPTEXT>View Name</REPTEXT>
+     <SCRTEXT_S>View Name</SCRTEXT_S>
+     <SCRTEXT_M>View Name</SCRTEXT_M>
+     <SCRTEXT_L>View Name</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Nombre de la Vista</DDTEXT>
+     <REPTEXT>Nombre de la Vista</REPTEXT>
+     <SCRTEXT_S>Nom. Vista</SCRTEXT_S>
+     <SCRTEXT_M>Nombre de la Vista</SCRTEXT_M>
+     <SCRTEXT_L>Nombre de la Vista</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Vous n&apos;êtes pas autorisé à cette sélection</ENTRY>
+     <LENGTH>84</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Article est bloqué par l&apos;utilisateur</ENTRY>
+     <LENGTH>52</LENGTH>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Vous n&apos;êtes pas autorisé à cette sélection</ENTRY>
+       <LENGTH>84</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Material is locked by user</ENTRY>
+       <LENGTH>52</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>L</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Vous n&apos;êtes pas autorisé à cette sélection</ENTRY>
+       <LENGTH>84</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Material is locked by user</ENTRY>
+       <LENGTH>52</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>S</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Vous n&apos;êtes pas autorisé à cette sélection</ENTRY>
+       <LENGTH>84</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Material is locked by user</ENTRY>
+       <LENGTH>52</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>I</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Vous n&apos;êtes pas autorisé à cette sélection</ENTRY>
+       <LENGTH>84</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Material is locked by user</ENTRY>
+       <LENGTH>52</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CHECKMATLOCKED</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check Material locked</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CHECKMATLOCKED</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Check Material locked</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CHECKMATLOCKED</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Check Material locked</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CHECKMATLOCKED</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Check Material locked</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CHECKMATLOCKED</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Check Material locked</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CLEARERRORMSG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Clean error msg</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CLEARERRORMSG</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Clean error msg</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CLEARERRORMSG</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Clean error msg</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CLEARERRORMSG</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Clean error msg</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CLEARERRORMSG</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Clean error msg</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CONVERT_LAND_SPRAS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Convert Land to spras</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CONVERT_LAND_SPRAS</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Convert Land to spras</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CONVERT_LAND_SPRAS</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Convert Land to spras</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>CONVERT_LAND_SPRAS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Convert Land to spras</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GETDYNAMICDATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get data from FE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GETDYNAMICDATA</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Get data from FE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GETDYNAMICDATA</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Get data from FE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GETDYNAMICDATA</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Get data from FE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GETDYNAMICDATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get data from FE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GET_DYN_TABLE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get dynamic tables from customazing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GET_DYN_TABLE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Get dynamic tables from customazing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GET_DYN_TABLE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Get dynamic tables from customazing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GET_DYN_TABLE</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Get dynamic tables from customazing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GET_DYN_TABLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get dynamic tables from customazing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GO_MIGRATION_MANAGER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GO_MIGRATION_MANAGER</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GO_MIGRATION_MANAGER</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GO_MIGRATION_MANAGER</CMPNAME>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>/DLWUPEX/CL_PRODUCTMAS_DPC_EXT</CLSNAME>
+     <CMPNAME>GO_MIGRATION_MANAGER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Data Provider Secondary Class</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

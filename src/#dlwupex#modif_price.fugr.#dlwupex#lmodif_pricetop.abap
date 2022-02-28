@@ -1,0 +1,4 @@
+FUNCTION-POOL /DLWUPEX/MODIF_PRICE.         "MESSAGE-ID ..
+
+* INCLUDE /DLWUPEX/LMODIF_PRICED...          " Local class definition
+  data : gt_t685A TYPE EDI_SD_TTY_T685A.

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EDESCR_VAR</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>TEXT50</DOMNAME>
+    <HEADLEN>20</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Description variante</DDTEXT>
+    <REPTEXT>Description variante</REPTEXT>
+    <SCRTEXT_S>Desc. var.</SCRTEXT_S>
+    <SCRTEXT_M>Description variante</SCRTEXT_M>
+    <SCRTEXT_L>Description variante</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Variable description</DDTEXT>
+     <REPTEXT>Variable description</REPTEXT>
+     <SCRTEXT_S>Var. Desc.</SCRTEXT_S>
+     <SCRTEXT_M>Variable description</SCRTEXT_M>
+     <SCRTEXT_L>Variable description</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Descrizione Variante</DDTEXT>
+     <REPTEXT>Descrizione Variante</REPTEXT>
+     <SCRTEXT_S>Desc. Var</SCRTEXT_S>
+     <SCRTEXT_M>Descrizione Variante</SCRTEXT_M>
+     <SCRTEXT_L>Descrizione Variante</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Description Variante</DDTEXT>
+     <REPTEXT>Description Variante</REPTEXT>
+     <SCRTEXT_S>Desc. var.</SCRTEXT_S>
+     <SCRTEXT_M>Description Variante</SCRTEXT_M>
+     <SCRTEXT_L>Description Variante</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Descripción de Variante</DDTEXT>
+     <REPTEXT>Descr. Variante</REPTEXT>
+     <SCRTEXT_S>D.Variante</SCRTEXT_S>
+     <SCRTEXT_M>Descr. Variante</SCRTEXT_M>
+     <SCRTEXT_L>Descr. Variante</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

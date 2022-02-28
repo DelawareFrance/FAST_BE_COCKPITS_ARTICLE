@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/ENOMDOUANE</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/SAPSLL/CCNGN</DOMNAME>
+    <HEADLEN>30</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Numéro statistique des marchandises</DDTEXT>
+    <REPTEXT>Nº stat. march.</REPTEXT>
+    <SCRTEXT_S>NºStMarch.</SCRTEXT_S>
+    <SCRTEXT_M>Nº stat. march.</SCRTEXT_M>
+    <SCRTEXT_L>Nº stat. march.</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Commodity Code</DDTEXT>
+     <REPTEXT>Commodity Code</REPTEXT>
+     <SCRTEXT_S>Comm.Code</SCRTEXT_S>
+     <SCRTEXT_M>Commodity Code</SCRTEXT_M>
+     <SCRTEXT_L>Commodity Code</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Codice merc.</DDTEXT>
+     <REPTEXT>Codice merc.</REPTEXT>
+     <SCRTEXT_S>Cd. merc.</SCRTEXT_S>
+     <SCRTEXT_M>Codice merc.</SCRTEXT_M>
+     <SCRTEXT_L>Codice merc.</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Número estadístico de mercancía</DDTEXT>
+     <REPTEXT>Nº estad.mercancías</REPTEXT>
+     <SCRTEXT_S>NºEstMcía</SCRTEXT_S>
+     <SCRTEXT_M>Nº estad.mercancías</SCRTEXT_M>
+     <SCRTEXT_L>Número estadístico de mercancía</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

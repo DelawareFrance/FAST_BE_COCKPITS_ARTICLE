@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/DLWUPEX/</NAMESPACE>
+    <REPLICENSE>03103013461903811701</REPLICENSE>
+   </NSPC>
+   <NSPC_TEXT>
+    <SPRAS>F</SPRAS>
+    <DESCRIPTN>Load postings from excel (fiori application)</DESCRIPTN>
+    <OWNER>DLW_DEV</OWNER>
+   </NSPC_TEXT>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <NSPC_TEXTS>
+    <item>
+     <SPRAS>E</SPRAS>
+     <DESCRIPTN>Load postings from excel (fiori application)</DESCRIPTN>
+     <OWNER>DLW_DEV</OWNER>
+    </item>
+    <item>
+     <SPRAS>I</SPRAS>
+     <DESCRIPTN>Load postings from excel (fiori application)</DESCRIPTN>
+     <OWNER>DLW_DEV</OWNER>
+    </item>
+    <item>
+     <SPRAS>L</SPRAS>
+     <DESCRIPTN>Load postings from excel (fiori application)</DESCRIPTN>
+     <OWNER>DLW_DEV</OWNER>
+    </item>
+    <item>
+     <SPRAS>S</SPRAS>
+     <DESCRIPTN>Load postings from excel (fiori application)</DESCRIPTN>
+     <OWNER>DLW_DEV</OWNER>
+    </item>
+   </NSPC_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

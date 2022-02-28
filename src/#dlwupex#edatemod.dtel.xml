@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EDATEMOD</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>DATS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Date de modification</DDTEXT>
+    <REPTEXT>Date de modification</REPTEXT>
+    <SCRTEXT_S>Date modif</SCRTEXT_S>
+    <SCRTEXT_M>Date de modification</SCRTEXT_M>
+    <SCRTEXT_L>Date de modification</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Modification date</DDTEXT>
+     <REPTEXT>Modification date</REPTEXT>
+     <SCRTEXT_S>Mod. date</SCRTEXT_S>
+     <SCRTEXT_M>Modification date</SCRTEXT_M>
+     <SCRTEXT_L>Modification date</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Data Variazione</DDTEXT>
+     <REPTEXT>Data Variazione</REPTEXT>
+     <SCRTEXT_S>Dt. Var</SCRTEXT_S>
+     <SCRTEXT_M>Data Variazione</SCRTEXT_M>
+     <SCRTEXT_L>Data Variazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Fecha de modificación</DDTEXT>
+     <REPTEXT>Fecha de modificación</REPTEXT>
+     <SCRTEXT_S>Fecha Mod.</SCRTEXT_S>
+     <SCRTEXT_M>Fecha modificación</SCRTEXT_M>
+     <SCRTEXT_L>Fecha de modificación</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

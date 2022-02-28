@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/ESUPP_ALL</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DSUPP_ALL</DOMNAME>
+    <HEADLEN>16</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>16</SCRLEN3>
+    <DDTEXT>CAM : pour autorisation TOUT valider</DDTEXT>
+    <REPTEXT>CAM : pour autorisation TOUT valider</REPTEXT>
+    <SCRTEXT_S>Tout valid</SCRTEXT_S>
+    <SCRTEXT_M>Tout valider ?</SCRTEXT_M>
+    <SCRTEXT_L>CAM : pour autorisation TOUT valider</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>MMC : for validate ALL authorisation</DDTEXT>
+     <REPTEXT>MMC : for validate ALL authorisation</REPTEXT>
+     <SCRTEXT_S>Valid ALL?</SCRTEXT_S>
+     <SCRTEXT_M>Validate ALL ?</SCRTEXT_M>
+     <SCRTEXT_L>MMC : for validate ALL authorisation</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Cockpit Articolo: per autorizzazione a validare tutto</DDTEXT>
+     <REPTEXT>Cockpit Articolo: per autorizzazione a validare tutto</REPTEXT>
+     <SCRTEXT_S>Confermare</SCRTEXT_S>
+     <SCRTEXT_M>Confermare tutto?</SCRTEXT_M>
+     <SCRTEXT_L>Cockpit Articolo: per autorizzazione a v</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Cockpit Artículos: Autorización para validación total</DDTEXT>
+     <REPTEXT>Cockpit Artículos: Autorización para validación total</REPTEXT>
+     <SCRTEXT_S>¿Validar?</SCRTEXT_S>
+     <SCRTEXT_M>¿Validar todo?</SCRTEXT_M>
+     <SCRTEXT_L>Cockpit Artículos: Autorización valida.</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

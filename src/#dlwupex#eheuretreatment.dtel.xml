@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EHEURETREATMENT</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>UZEIT</DOMNAME>
+    <HEADLEN>19</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>19</SCRLEN2>
+    <SCRLEN3>19</SCRLEN3>
+    <DDTEXT>Heure de Traitement</DDTEXT>
+    <REPTEXT>Heure de Traitement</REPTEXT>
+    <SCRTEXT_S>Heure</SCRTEXT_S>
+    <SCRTEXT_M>Heure de Traitement</SCRTEXT_M>
+    <SCRTEXT_L>Heure de Traitement</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Processing time</DDTEXT>
+     <REPTEXT>Processing time</REPTEXT>
+     <SCRTEXT_S>Proc. time</SCRTEXT_S>
+     <SCRTEXT_M>Processing time</SCRTEXT_M>
+     <SCRTEXT_L>Processing time</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Ora del trattamento</DDTEXT>
+     <REPTEXT>Ora del trattamento</REPTEXT>
+     <SCRTEXT_S>Ora</SCRTEXT_S>
+     <SCRTEXT_M>Ora del trattamento</SCRTEXT_M>
+     <SCRTEXT_L>Ora del trattamento</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Hora de procesamiento</DDTEXT>
+     <REPTEXT>Hora de procesamiento</REPTEXT>
+     <SCRTEXT_S>Hora proc.</SCRTEXT_S>
+     <SCRTEXT_M>Hora procesamiento</SCRTEXT_M>
+     <SCRTEXT_L>Hora de procesamiento</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

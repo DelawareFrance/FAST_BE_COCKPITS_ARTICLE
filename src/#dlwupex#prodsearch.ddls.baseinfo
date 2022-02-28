@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"I_PRODUCTTEXT",
+"MARA"
+],
+"ASSOCIATED":
+[
+"I_PRODUCTTEXT"
+],
+"BASE":
+[]
+}
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EREQSTATUSSTORE</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DLINESTATUS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Log Mag.</DDTEXT>
+    <REPTEXT>Log Mag.</REPTEXT>
+    <SCRTEXT_S>Log Mag.</SCRTEXT_S>
+    <SCRTEXT_M>Log Mag.</SCRTEXT_M>
+    <SCRTEXT_L>Log Mag.</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Logistic store status for request</DDTEXT>
+     <REPTEXT>Logistic store</REPTEXT>
+     <SCRTEXT_S>Log. Store</SCRTEXT_S>
+     <SCRTEXT_M>Log. Store</SCRTEXT_M>
+     <SCRTEXT_L>Logistic store</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Log PDV</DDTEXT>
+     <REPTEXT>Log PDV</REPTEXT>
+     <SCRTEXT_S>Log PDV</SCRTEXT_S>
+     <SCRTEXT_M>Log PDV</SCRTEXT_M>
+     <SCRTEXT_L>Log PDV</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Logistic store status for request</DDTEXT>
+     <REPTEXT>Logistic store status for request</REPTEXT>
+     <SCRTEXT_S>Status</SCRTEXT_S>
+     <SCRTEXT_M>Log Store Sta</SCRTEXT_M>
+     <SCRTEXT_L>Logistic store status for request</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Log. Almacén</DDTEXT>
+     <REPTEXT>Log. Almacén</REPTEXT>
+     <SCRTEXT_S>Log.Alm.</SCRTEXT_S>
+     <SCRTEXT_M>Log. Almacén</SCRTEXT_M>
+     <SCRTEXT_L>Log. Almacén</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

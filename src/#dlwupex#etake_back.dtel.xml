@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/ETAKE_BACK</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>XFELD</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Insérer la donnée</DDTEXT>
+    <REPTEXT>Insérer la donnée</REPTEXT>
+    <SCRTEXT_S>Insérer ?</SCRTEXT_S>
+    <SCRTEXT_M>Insérer la donnée</SCRTEXT_M>
+    <SCRTEXT_L>Insérer la donnée</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Insert data</DDTEXT>
+     <REPTEXT>Insert data</REPTEXT>
+     <SCRTEXT_S>Insert</SCRTEXT_S>
+     <SCRTEXT_M>Insert data</SCRTEXT_M>
+     <SCRTEXT_L>Insert data</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Inserire il dato</DDTEXT>
+     <REPTEXT>Inserire il dato</REPTEXT>
+     <SCRTEXT_S>Inserire?</SCRTEXT_S>
+     <SCRTEXT_M>Inserire il dato</SCRTEXT_M>
+     <SCRTEXT_L>Inserire il dato</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Reprendre la donnée en insertion</DDTEXT>
+     <REPTEXT>Reprendre la donnée en insertion</REPTEXT>
+     <SCRTEXT_S>Reprendre?</SCRTEXT_S>
+     <SCRTEXT_M>Rep la donnée insert</SCRTEXT_M>
+     <SCRTEXT_L>Reprendre la donnée en insertion</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Inserte los datos</DDTEXT>
+     <REPTEXT>Inserte los datos</REPTEXT>
+     <SCRTEXT_S>Insertar?</SCRTEXT_S>
+     <SCRTEXT_M>Inserte los datos</SCRTEXT_M>
+     <SCRTEXT_L>Inserte los datos</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

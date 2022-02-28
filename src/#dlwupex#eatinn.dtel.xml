@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EATINN</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <HEADLEN>30</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Caractéristique interne</DDTEXT>
+    <REPTEXT>N° caract. interne</REPTEXT>
+    <SCRTEXT_S>Carac.int.</SCRTEXT_S>
+    <SCRTEXT_M>Caract. interne</SCRTEXT_M>
+    <SCRTEXT_L>N° caract. interne</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000030</LENG>
+    <OUTPUTLEN>000030</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Internal characteristic</DDTEXT>
+     <REPTEXT>Internal char no.</REPTEXT>
+     <SCRTEXT_S>Int. char.</SCRTEXT_S>
+     <SCRTEXT_M>Internal char.</SCRTEXT_M>
+     <SCRTEXT_L>Internal char no.</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>N° carat. Interno</DDTEXT>
+     <REPTEXT>N° carat. Interno</REPTEXT>
+     <SCRTEXT_S>Carat. Int</SCRTEXT_S>
+     <SCRTEXT_M>N° carat. Interno</SCRTEXT_M>
+     <SCRTEXT_L>N° carat. Interno</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Característica interna</DDTEXT>
+     <REPTEXT>Nº característica interna</REPTEXT>
+     <SCRTEXT_S>Carac. Int</SCRTEXT_S>
+     <SCRTEXT_M>Caract. interna</SCRTEXT_M>
+     <SCRTEXT_L>Nº característica interna</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

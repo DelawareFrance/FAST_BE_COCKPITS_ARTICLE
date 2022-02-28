@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>/DLWUPEX/EKEYDUPLICATEFLAG</ROLLNAME>
+    <DDLANGUAGE>F</DDLANGUAGE>
+    <DOMNAME>/DLWUPEX/DKEYDUPLICATEFLAG</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Flag Contrôle de doublon</DDTEXT>
+    <REPTEXT>Contrôle doublon</REPTEXT>
+    <SCRTEXT_S>Ctrl doub.</SCRTEXT_S>
+    <SCRTEXT_M>Contrôle doublon</SCRTEXT_M>
+    <SCRTEXT_L>Contrôle doublon</SCRTEXT_L>
+    <DTELMASTER>F</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Duplicate check flag</DDTEXT>
+     <REPTEXT>Duplicate check</REPTEXT>
+     <SCRTEXT_S>Dup. check</SCRTEXT_S>
+     <SCRTEXT_M>Duplicate check</SCRTEXT_M>
+     <SCRTEXT_L>Duplicate check</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Flag di controllo duplicato</DDTEXT>
+     <REPTEXT>Controllo duplicato</REPTEXT>
+     <SCRTEXT_S>Ctrl dupli</SCRTEXT_S>
+     <SCRTEXT_M>Controllo duplicato</SCRTEXT_M>
+     <SCRTEXT_L>Controllo duplicato</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Flag de Cheque duplicado</DDTEXT>
+     <REPTEXT>Cheque duplicado</REPTEXT>
+     <SCRTEXT_S>Cheq dupl</SCRTEXT_S>
+     <SCRTEXT_M>Cheque duplicado</SCRTEXT_M>
+     <SCRTEXT_L>Cheque duplicado</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
