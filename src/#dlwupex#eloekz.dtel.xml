@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>OA soppr.</SCRTEXT_S>
      <SCRTEXT_M>OA soppr.</SCRTEXT_M>
      <SCRTEXT_L>Dati OA selezionati per la soppressione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Données OA marquées pour suppression</DDTEXT>
+     <REPTEXT>Données OA marquées pour suppression</REPTEXT>
+     <SCRTEXT_S>OA suppr.</SCRTEXT_S>
+     <SCRTEXT_M>Données OA suppr.</SCRTEXT_M>
+     <SCRTEXT_L>Données OA marquées pour suppression</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

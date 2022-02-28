@@ -13,6 +13,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -23,6 +24,10 @@
     <item>
      <DDLANGUAGE>I</DDLANGUAGE>
      <DDTEXT>Cockpit Variazione Articolo: autoriz. inserire/sopprimere</DDTEXT>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>CAM : pour autorisation de Insérer/Supprim</DDTEXT>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -34,6 +35,14 @@
     </item>
     <item>
      <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Not Editable</DDTEXT>
+     <REPTEXT>Not Editable</REPTEXT>
+     <SCRTEXT_S>NoEditable</SCRTEXT_S>
+     <SCRTEXT_M>Not Editable</SCRTEXT_M>
+     <SCRTEXT_L>Not Editable</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
      <DDTEXT>Not Editable</DDTEXT>
      <REPTEXT>Not Editable</REPTEXT>
      <SCRTEXT_S>NoEditable</SCRTEXT_S>

@@ -74,6 +74,7 @@
     <item>
      <VALPOS>0001</VALPOS>
      <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Non Editable</DDTEXT>
     </item>
     <item>
      <VALPOS>0001</VALPOS>
@@ -96,6 +97,7 @@
      <VALPOS>0002</VALPOS>
      <DDLANGUAGE>L</DDLANGUAGE>
      <DOMVALUE_L>1</DOMVALUE_L>
+     <DDTEXT>Editable en Modification</DDTEXT>
     </item>
     <item>
      <VALPOS>0002</VALPOS>
@@ -119,6 +121,7 @@
      <VALPOS>0003</VALPOS>
      <DDLANGUAGE>L</DDLANGUAGE>
      <DOMVALUE_L>2</DOMVALUE_L>
+     <DDTEXT>Editable en Insertion</DDTEXT>
     </item>
     <item>
      <VALPOS>0003</VALPOS>
@@ -142,6 +145,7 @@
      <VALPOS>0004</VALPOS>
      <DDLANGUAGE>L</DDLANGUAGE>
      <DOMVALUE_L>3</DOMVALUE_L>
+     <DDTEXT>Editable en Modification et Insertion</DDTEXT>
     </item>
     <item>
      <VALPOS>0004</VALPOS>

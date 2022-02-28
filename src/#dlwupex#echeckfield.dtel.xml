@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Ctrl Campo</SCRTEXT_S>
      <SCRTEXT_M>Ctrl Campo</SCRTEXT_M>
      <SCRTEXT_L>Campo da controllare Sì/No</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Champ à contrôler Oui/Non</DDTEXT>
+     <REPTEXT>Champ à contrôler Oui/Non</REPTEXT>
+     <SCRTEXT_S>Ctrl champ</SCRTEXT_S>
+     <SCRTEXT_M>Ctrl champ Oui/Non</SCRTEXT_M>
+     <SCRTEXT_L>Champ à contrôler Oui/Non</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

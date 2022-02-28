@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Confermare</SCRTEXT_S>
      <SCRTEXT_M>Confermare tutto?</SCRTEXT_M>
      <SCRTEXT_L>Cockpit Articolo: per autorizzazione a v</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>CAM : pour autorisation TOUT valider</DDTEXT>
+     <REPTEXT>CAM : pour autorisation TOUT valider</REPTEXT>
+     <SCRTEXT_S>Tout valid</SCRTEXT_S>
+     <SCRTEXT_M>Tout valider ?</SCRTEXT_M>
+     <SCRTEXT_L>CAM : pour autorisation TOUT valider</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

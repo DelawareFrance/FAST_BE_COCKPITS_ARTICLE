@@ -22,6 +22,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -40,6 +41,14 @@
      <SCRTEXT_S>Carat. Int</SCRTEXT_S>
      <SCRTEXT_M>N° carat. Interno</SCRTEXT_M>
      <SCRTEXT_L>N° carat. Interno</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Caractéristique interne</DDTEXT>
+     <REPTEXT>N° caract. interne</REPTEXT>
+     <SCRTEXT_S>Carac.int.</SCRTEXT_S>
+     <SCRTEXT_M>Caract. interne</SCRTEXT_M>
+     <SCRTEXT_L>N° caract. interne</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

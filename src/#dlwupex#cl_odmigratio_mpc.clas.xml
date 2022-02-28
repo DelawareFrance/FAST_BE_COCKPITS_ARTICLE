@@ -995,495 +995,10 @@
        <ENTRY>Date Format</ENTRY>
        <LENGTH>132</LENGTH>
       </item>
-     </TEXTPOOL>
-    </item>
-    <item>
-     <LANGUAGE>L</LANGUAGE>
-     <TEXTPOOL>
       <item>
        <ID>I</ID>
-       <KEY>001</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>002</KEY>
-       <ENTRY>Material Group</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>003</KEY>
-       <ENTRY>Matl Grp Desc.</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>004</KEY>
-       <ENTRY>Content Type</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>005</KEY>
-       <ENTRY>Sequence Number</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>006</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>007</KEY>
-       <ENTRY>Dellete data ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>008</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>009</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>010</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>011</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>012</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>013</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>014</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>015</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>016</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>017</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>018</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>019</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>020</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>021</KEY>
-       <ENTRY>Text, 40 Characters Long</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>022</KEY>
-       <ENTRY>Filter</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>023</KEY>
-       <ENTRY>Material Num</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>024</KEY>
-       <ENTRY>Material Desc</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>025</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>026</KEY>
-       <ENTRY>Bu desc</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>027</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>028</KEY>
-       <ENTRY>Requester for mat</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>029</KEY>
-       <ENTRY>Date</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>030</KEY>
-       <ENTRY>Number of material</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>031</KEY>
-       <ENTRY>Global Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>032</KEY>
-       <ENTRY>GD Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>033</KEY>
-       <ENTRY>Unit Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>034</KEY>
-       <ENTRY>Cara Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>035</KEY>
-       <ENTRY>Bom Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>036</KEY>
-       <ENTRY>Fia Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>037</KEY>
-       <ENTRY>Listing Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>038</KEY>
-       <ENTRY>Sour list Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>039</KEY>
-       <ENTRY>Sale PV Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>040</KEY>
-       <ENTRY>Log DC Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>041</KEY>
-       <ENTRY>Log Store Status</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>042</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>043</KEY>
-       <ENTRY>Purchasing org.</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>044</KEY>
-       <ENTRY>Sales Org.</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>045</KEY>
-       <ENTRY>Distr. Channel</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>046</KEY>
-       <ENTRY>DESCRIPTION</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>047</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>048</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>049</KEY>
-       <ENTRY>Save data ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>050</KEY>
-       <ENTRY>Valid data ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>051</KEY>
-       <ENTRY>Dellete data ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>052</KEY>
-       <ENTRY>Dellete lines ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>053</KEY>
-       <ENTRY>Get error msg ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>054</KEY>
-       <ENTRY>Result</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>055</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>056</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>057</KEY>
-       <ENTRY>Template Id</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>058</KEY>
-       <ENTRY>Template description</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>059</KEY>
-       <ENTRY>Template Id</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>060</KEY>
-       <ENTRY>Column</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>061</KEY>
-       <ENTRY>Field Name</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>062</KEY>
-       <ENTRY>Column Name</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>063</KEY>
-       <ENTRY>Dellete data ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>064</KEY>
-       <ENTRY>Result</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>065</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>066</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>067</KEY>
-       <ENTRY>Business unit ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>068</KEY>
-       <ENTRY>Change Request ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>069</KEY>
-       <ENTRY>Caracteristic</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>070</KEY>
-       <ENTRY>F4 exist ?</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>071</KEY>
-       <ENTRY>Req Id</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>072</KEY>
-       <ENTRY>B.Unit</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>073</KEY>
-       <ENTRY>Number of copy</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>074</KEY>
-       <ENTRY>Material key</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>075</KEY>
-       <ENTRY>Line ID</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>076</KEY>
-       <ENTRY>Req Id</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>077</KEY>
-       <ENTRY>Number of copy</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>078</KEY>
-       <ENTRY>B.Unit</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>079</KEY>
-       <ENTRY>Material key</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>080</KEY>
-       <ENTRY>View name</ENTRY>
-       <LENGTH>132</LENGTH>
-      </item>
-      <item>
-       <ID>I</ID>
-       <KEY>081</KEY>
-       <ENTRY>Date Format</ENTRY>
+       <KEY>082</KEY>
+       <ENTRY>Position</ENTRY>
        <LENGTH>132</LENGTH>
       </item>
      </TEXTPOOL>
@@ -1977,6 +1492,12 @@
        <ENTRY>Date Format</ENTRY>
        <LENGTH>132</LENGTH>
       </item>
+      <item>
+       <ID>I</ID>
+       <KEY>082</KEY>
+       <ENTRY>Position</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
      </TEXTPOOL>
     </item>
     <item>
@@ -2466,6 +1987,509 @@
        <ID>I</ID>
        <KEY>081</KEY>
        <ENTRY>Date Format</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>082</KEY>
+       <ENTRY>Position</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>L</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Material Group</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>003</KEY>
+       <ENTRY>Matl Grp Desc.</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>004</KEY>
+       <ENTRY>Content Type</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>005</KEY>
+       <ENTRY>Sequence Number</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>006</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>007</KEY>
+       <ENTRY>Dellete data ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>008</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>009</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>010</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>011</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>012</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>013</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>014</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>015</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>016</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>017</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>018</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>019</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>020</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>021</KEY>
+       <ENTRY>Text, 40 Characters Long</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>022</KEY>
+       <ENTRY>Filter</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>023</KEY>
+       <ENTRY>Material Num</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>024</KEY>
+       <ENTRY>Material Desc</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>025</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>026</KEY>
+       <ENTRY>Bu desc</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>027</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>028</KEY>
+       <ENTRY>Requester for mat</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>029</KEY>
+       <ENTRY>Date</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>030</KEY>
+       <ENTRY>Number of material</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>031</KEY>
+       <ENTRY>Global Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>032</KEY>
+       <ENTRY>GD Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>033</KEY>
+       <ENTRY>Unit Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>034</KEY>
+       <ENTRY>Cara Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>035</KEY>
+       <ENTRY>Bom Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>036</KEY>
+       <ENTRY>Fia Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>037</KEY>
+       <ENTRY>Listing Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>038</KEY>
+       <ENTRY>Sour list Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>039</KEY>
+       <ENTRY>Sale PV Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>040</KEY>
+       <ENTRY>Log DC Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>041</KEY>
+       <ENTRY>Log Store Status</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>042</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>043</KEY>
+       <ENTRY>Purchasing org.</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>044</KEY>
+       <ENTRY>Sales Org.</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>045</KEY>
+       <ENTRY>Distr. Channel</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>046</KEY>
+       <ENTRY>DESCRIPTION</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>047</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>048</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>049</KEY>
+       <ENTRY>Save data ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>050</KEY>
+       <ENTRY>Valid data ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>051</KEY>
+       <ENTRY>Dellete data ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>052</KEY>
+       <ENTRY>Dellete lines ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>053</KEY>
+       <ENTRY>Get error msg ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>054</KEY>
+       <ENTRY>Result</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>055</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>056</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>057</KEY>
+       <ENTRY>Template Id</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>058</KEY>
+       <ENTRY>Template description</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>059</KEY>
+       <ENTRY>Template Id</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>060</KEY>
+       <ENTRY>Column</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>061</KEY>
+       <ENTRY>Field Name</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>062</KEY>
+       <ENTRY>Column Name</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>063</KEY>
+       <ENTRY>Dellete data ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>064</KEY>
+       <ENTRY>Result</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>065</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>066</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>067</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>068</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>069</KEY>
+       <ENTRY>Caracteristic</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>070</KEY>
+       <ENTRY>F4 exist ?</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>071</KEY>
+       <ENTRY>Req Id</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>072</KEY>
+       <ENTRY>B.Unit</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>073</KEY>
+       <ENTRY>Number of copy</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>074</KEY>
+       <ENTRY>Material key</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>075</KEY>
+       <ENTRY>Line ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>076</KEY>
+       <ENTRY>Req Id</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>077</KEY>
+       <ENTRY>Number of copy</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>078</KEY>
+       <ENTRY>B.Unit</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>079</KEY>
+       <ENTRY>Material key</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>080</KEY>
+       <ENTRY>View name</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>081</KEY>
+       <ENTRY>Date Format</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>082</KEY>
+       <ENTRY>Position</ENTRY>
        <LENGTH>132</LENGTH>
       </item>
      </TEXTPOOL>

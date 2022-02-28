@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Flag Var.</SCRTEXT_S>
      <SCRTEXT_M>Flag Variazione</SCRTEXT_M>
      <SCRTEXT_L>Flag Variazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Flag Modification</DDTEXT>
+     <REPTEXT>Flag Modification</REPTEXT>
+     <SCRTEXT_S>Flag Modif</SCRTEXT_S>
+     <SCRTEXT_M>Flag Modification</SCRTEXT_M>
+     <SCRTEXT_L>Flag Modification</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

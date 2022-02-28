@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Cd. merc.</SCRTEXT_S>
      <SCRTEXT_M>Codice merc.</SCRTEXT_M>
      <SCRTEXT_L>Codice merc.</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Numéro statistique des marchandises</DDTEXT>
+     <REPTEXT>Nº stat. march.</REPTEXT>
+     <SCRTEXT_S>NºStMarch.</SCRTEXT_S>
+     <SCRTEXT_M>Nº stat. march.</SCRTEXT_M>
+     <SCRTEXT_L>Nº stat. march.</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

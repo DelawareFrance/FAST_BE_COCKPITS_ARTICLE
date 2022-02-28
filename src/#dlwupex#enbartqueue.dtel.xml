@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Nr. Coda</SCRTEXT_S>
      <SCRTEXT_M>Nr. Coda</SCRTEXT_M>
      <SCRTEXT_L>Numero Code Articoli da Gestire</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Nombre de queues d&apos;articles à gérer</DDTEXT>
+     <REPTEXT>Nombre de queues d&apos;articles à gérer</REPTEXT>
+     <SCRTEXT_S>Nbr queues</SCRTEXT_S>
+     <SCRTEXT_M>Nbr queues articles</SCRTEXT_M>
+     <SCRTEXT_L>Nbr queues articles</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

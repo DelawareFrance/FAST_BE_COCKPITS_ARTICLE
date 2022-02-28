@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Flag Cre.</SCRTEXT_S>
      <SCRTEXT_M>Flag Creazione</SCRTEXT_M>
      <SCRTEXT_L>Flag Creazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Flag Création</DDTEXT>
+     <REPTEXT>Flag Création</REPTEXT>
+     <SCRTEXT_S>Flag Créa.</SCRTEXT_S>
+     <SCRTEXT_M>Flag Création</SCRTEXT_M>
+     <SCRTEXT_L>Flag Création</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

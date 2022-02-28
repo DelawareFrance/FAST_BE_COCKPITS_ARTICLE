@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Fase Cre.</SCRTEXT_S>
      <SCRTEXT_M>Fase di Creazione</SCRTEXT_M>
      <SCRTEXT_L>Fase di Creazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Etape de création</DDTEXT>
+     <REPTEXT>Etape de création</REPTEXT>
+     <SCRTEXT_S>Etape créa</SCRTEXT_S>
+     <SCRTEXT_M>Etape de création</SCRTEXT_M>
+     <SCRTEXT_L>Etape de création</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

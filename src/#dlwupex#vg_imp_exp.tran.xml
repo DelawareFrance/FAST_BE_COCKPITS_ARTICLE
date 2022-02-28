@@ -26,6 +26,10 @@
      <TTEXT>Import/Export de Variante de Gestion</TTEXT>
     </TSTCT>
     <TSTCT>
+     <SPRSL>L</SPRSL>
+     <TTEXT>Import/Export de Variante de Gestion</TTEXT>
+    </TSTCT>
+    <TSTCT>
      <SPRSL>S</SPRSL>
      <TTEXT>Import/Export de Variante de Gestion</TTEXT>
     </TSTCT>

@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Mess. Er.</SCRTEXT_S>
      <SCRTEXT_M>Messaggio d&apos;errore</SCRTEXT_M>
      <SCRTEXT_L>Messaggio d&apos;errore</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Message d&apos;erreur</DDTEXT>
+     <REPTEXT>Message d&apos;erreur</REPTEXT>
+     <SCRTEXT_S>Erreur</SCRTEXT_S>
+     <SCRTEXT_M>Message d&apos;erreur</SCRTEXT_M>
+     <SCRTEXT_L>Message d&apos;erreur</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

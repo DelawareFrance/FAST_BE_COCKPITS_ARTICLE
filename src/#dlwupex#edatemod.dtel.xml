@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Dt. Var</SCRTEXT_S>
      <SCRTEXT_M>Data Variazione</SCRTEXT_M>
      <SCRTEXT_L>Data Variazione</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Date de modification</DDTEXT>
+     <REPTEXT>Date de modification</REPTEXT>
+     <SCRTEXT_S>Date modif</SCRTEXT_S>
+     <SCRTEXT_M>Date de modification</SCRTEXT_M>
+     <SCRTEXT_L>Date de modification</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

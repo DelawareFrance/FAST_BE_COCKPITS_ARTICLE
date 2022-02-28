@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Ctrl Inser</SCRTEXT_S>
      <SCRTEXT_M>Ctrl Inser</SCRTEXT_M>
      <SCRTEXT_L>Controllare gli inserimenti?</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Contrôler les insertions ?</DDTEXT>
+     <REPTEXT>Contrôler les insertions ?</REPTEXT>
+     <SCRTEXT_S>Ctrl ins.</SCRTEXT_S>
+     <SCRTEXT_M>Contrôler insertions</SCRTEXT_M>
+     <SCRTEXT_L>Contrôler les insertions ?</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

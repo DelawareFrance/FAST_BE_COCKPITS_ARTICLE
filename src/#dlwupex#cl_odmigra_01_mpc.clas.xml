@@ -14,6 +14,18 @@
    <TPOOL>
     <item>
      <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Business unit ID</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Change Request ID</ENTRY>
+     <LENGTH>132</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
      <KEY>003</KEY>
      <ENTRY>Business unit ID</ENTRY>
      <LENGTH>132</LENGTH>
@@ -41,6 +53,18 @@
     <item>
      <LANGUAGE>E</LANGUAGE>
      <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
       <item>
        <ID>I</ID>
        <KEY>003</KEY>
@@ -72,6 +96,18 @@
      <TEXTPOOL>
       <item>
        <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
        <KEY>003</KEY>
        <ENTRY>Business unit ID</ENTRY>
        <LENGTH>132</LENGTH>
@@ -101,6 +137,18 @@
      <TEXTPOOL>
       <item>
        <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
        <KEY>003</KEY>
        <ENTRY>Business unit ID</ENTRY>
        <LENGTH>132</LENGTH>
@@ -128,6 +176,18 @@
     <item>
      <LANGUAGE>I</LANGUAGE>
      <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Business unit ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>Change Request ID</ENTRY>
+       <LENGTH>132</LENGTH>
+      </item>
       <item>
        <ID>I</ID>
        <KEY>003</KEY>

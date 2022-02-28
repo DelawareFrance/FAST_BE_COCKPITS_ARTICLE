@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Canc.Ins.</SCRTEXT_S>
      <SCRTEXT_M>Canc.Ins.</SCRTEXT_M>
      <SCRTEXT_L>Eliminare gli inserimenti?</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Nettoyer les insertions ?</DDTEXT>
+     <REPTEXT>Nettoyer les insertions ?</REPTEXT>
+     <SCRTEXT_S>Nettoyer ?</SCRTEXT_S>
+     <SCRTEXT_M>Nettoyer insertions?</SCRTEXT_M>
+     <SCRTEXT_L>Nettoyer les insertions ?</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

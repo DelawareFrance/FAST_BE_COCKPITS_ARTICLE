@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Azione Var</SCRTEXT_S>
      <SCRTEXT_M>Azione Var</SCRTEXT_M>
      <SCRTEXT_L>Azione di variazione articolo</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Action de modification article</DDTEXT>
+     <REPTEXT>Action de modification article</REPTEXT>
+     <SCRTEXT_S>Action Mod</SCRTEXT_S>
+     <SCRTEXT_M>Action modif article</SCRTEXT_M>
+     <SCRTEXT_L>Action de modification article</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

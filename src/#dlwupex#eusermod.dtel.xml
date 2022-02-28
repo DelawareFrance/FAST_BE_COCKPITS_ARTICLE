@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Modif. da</SCRTEXT_S>
      <SCRTEXT_M>Modificato da</SCRTEXT_M>
      <SCRTEXT_L>Modificato da</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Modifié par</DDTEXT>
+     <REPTEXT>Modifié par</REPTEXT>
+     <SCRTEXT_S>Modif. par</SCRTEXT_S>
+     <SCRTEXT_M>Modifié par</SCRTEXT_M>
+     <SCRTEXT_L>Modifié par</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>

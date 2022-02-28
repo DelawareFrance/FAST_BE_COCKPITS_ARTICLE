@@ -21,6 +21,7 @@
    <I18N_LANGS>
     <LANGU>E</LANGU>
     <LANGU>I</LANGU>
+    <LANGU>L</LANGU>
     <LANGU>S</LANGU>
    </I18N_LANGS>
    <DD04_TEXTS>
@@ -39,6 +40,14 @@
      <SCRTEXT_S>Ctrl dupli</SCRTEXT_S>
      <SCRTEXT_M>Controllo duplicato</SCRTEXT_M>
      <SCRTEXT_L>Controllo duplicato</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Flag Contrôle de doublon</DDTEXT>
+     <REPTEXT>Contrôle doublon</REPTEXT>
+     <SCRTEXT_S>Ctrl doub.</SCRTEXT_S>
+     <SCRTEXT_M>Contrôle doublon</SCRTEXT_M>
+     <SCRTEXT_L>Contrôle doublon</SCRTEXT_L>
     </item>
     <item>
      <DDLANGUAGE>S</DDLANGUAGE>
