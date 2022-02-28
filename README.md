@@ -1,0 +1,2 @@
+# FAST_BE_COCKPITS_ARTICLE
+Cockpits Article CAM/MAM BE
